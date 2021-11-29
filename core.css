@@ -1,0 +1,19 @@
+body {
+	color: rgb(0,255,0);
+	background-image: url('Images/background.gif');
+	background-position: center;
+	background-size: cover;
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+}
+
+
+u {
+	text-decoration: underline;
+}
+
+.text-wrapper{
+	width: 500px;
+	margin: 0px auto;
+	background: rgba(4, 2, 4, 0.2);
+}
